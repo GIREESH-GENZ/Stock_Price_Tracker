@@ -4,9 +4,9 @@ import time
 import requests
 
 
-MAILJET_API_KEY = 'aea2b62e3f2148306f5dbe31c8ca1caa'
-MAILJET_SECRET_KEY = 'e289f79103074bdc572666a8e0e68a70'
-SENDER_EMAIL = 'gireeshpolumuru@gmail.com'  
+MAILJET_API_KEY = ' '     #mailjet id
+MAILJET_SECRET_KEY = ' '   #mailjet secret key
+SENDER_EMAIL = ' '          #sender mail id
 
 symbols = input("Enter the stock symbols separated by commas (e.g. AAPL,MSFT,GOOG): ").upper().split(",")
 receiver_email = input("Enter the email address to receive stock alerts: ")
