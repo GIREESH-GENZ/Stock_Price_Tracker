@@ -1,0 +1,5 @@
+yfinance
+plyer
+schedule
+requests
+mailjet_rest
