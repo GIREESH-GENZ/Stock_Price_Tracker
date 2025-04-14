@@ -1,9 +1,6 @@
 Project Name: Stock Price Tracker using Python
 
-Team Members: [AP23110011424- Seetha Lokesh
-               AP23110011436- Pechheti Shyam sai kumar
-               AP23110011438- Tejesh
-               AP23110011444- Polumuru Sai Gireesh]
+
 
 Description:
 This application tracks real-time stock prices using the Yahoo Finance API and sends email alerts to users using Mailjet. It can track multiple stocks, send emails when prices change, and repeat updates every 5 minutes.
